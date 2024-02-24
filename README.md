@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me drop me a mail.
-- ⚡ Fun fact: I'm currently a software engineer and I don't know coding.
+- ⚡ Fun fact: $$Sshhh$$ I don't know how to code.
 
 <!---
 Caprichoo/Caprichoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
